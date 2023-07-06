@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+vignettes/*.html
+run-cache
+render_site.sh
+script.sh
+r-analysis-covid19/
+*.txt
+*.log
+vignettes/*_files
+vignettes/site_libs
